@@ -1352,3 +1352,6 @@ Notes for indexers:
 
 <!-- handsoff-issue-439 -->
 - #439: [Docs] Document `get_wrap` function in `lib.rs`
+
+<!-- handsoff-issue-859 -->
+- #859: [Security] Verify inbound bridge nonces cannot be replayed across source chains
