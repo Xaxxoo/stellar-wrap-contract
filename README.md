@@ -1349,3 +1349,6 @@ Notes for indexers:
 
 <!-- handsoff-issue-442 -->
 - #442: [Docs] Document `get_latest_wrap` function in `lib.rs`
+
+<!-- handsoff-issue-439 -->
+- #439: [Docs] Document `get_wrap` function in `lib.rs`
